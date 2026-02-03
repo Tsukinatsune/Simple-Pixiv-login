@@ -11,7 +11,9 @@ python -m playwright install chromium
 
 
 what u have to change?
+
 page.fill(email_selector, '<Email here>')
+
 page.fill('input[placeholder="Password"]', '<Password here>')
 
 Have fun with pixiv api!
