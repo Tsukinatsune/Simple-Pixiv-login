@@ -1,3 +1,5 @@
+<img src="https://c.tenor.com/qMyieAqYK8MAAAAd/tenor.gif" alt="Dancing chen" width="200" height="200">
+
 Hi i'm Tsukinatsune
 
 A lightweight Python utility to bypass reCAPTCHA using **Playwright**. By automating a real browser instance, this script captures the `PHPSESSID` cookie directly, bypassing the need for complex reverse engineering of Pixiv's authentication API.
